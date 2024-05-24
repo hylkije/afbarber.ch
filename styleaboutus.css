@@ -1,0 +1,170 @@
+
+
+/*about us section*/
+.heading {
+width: 90%;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+text-align: center;
+margin: 20px auto; 
+
+}
+
+.heading .title {
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 2em;    
+}
+
+.heading .title h2 {
+color: black;
+font-weight: 500;    
+}
+
+
+.heading p {
+font-size: 18px;
+color: #666;
+margin-bottom: 35px;
+position: relative;
+left: 50px;
+
+
+}
+.container_aboutus {
+width: 90%;
+margin: 0 auto;
+padding: 10px 20px;
+}
+.about {
+display: flex;
+justify-content: space-between;
+align-items: center;
+flex-wrap: wrap;
+}
+.about-image {
+flex: 1;
+margin-right: 40px;
+overflow: hidden;
+}
+.about-image img {
+max-width: 100%;
+height: auto;
+display: block;
+transition: 0.5s ease;
+}
+.about-image:hover img {
+transform: scale(1.2);
+}
+.about-content {
+flex:1;
+}
+.about-content h2 {
+font-size: 23px;
+margin-bottom: 15px;
+color: #333;
+}
+.about-content p {
+font-size: 18px;
+line-height: 1.5;
+color: #666;
+}
+.about-content .read-more {
+padding: 12px;
+width: 150px;
+display: inline-block;
+background: black;
+text-decoration: none !important;
+color: #fff;
+border: 1px solid #fff;
+border-radius: 5px;
+text-align: center;
+margin-top: 30px;
+font-weight: bold;
+font-size: 14px;
+}
+.about-content .read-more:hover {
+color: #fff;
+
+}
+.carousel-item img {
+    width: 240px !important;
+    border-radius: 0%;
+    top: 99px;
+    position: relative;
+}
+.carousel-item {
+    text-align: center;
+    height: 510px;
+}
+/*about us header*/
+
+.header {
+height:486px;
+background-image: url(foto/banner\ 8.jpg);
+background-size: 180%;
+
+
+}
+.review {
+margin: 100px 0 !important;
+
+}
+
+@media screen and (max-width: 800px){
+    
+.heading {
+    padding: 0px 20px;
+}
+.heading h1 {
+    font-size: 36px;
+}
+.heading p {
+    font-size: 17px;
+    margin-bottom: 0px;
+}
+.container_aboutus {
+    padding: 0px;
+ 
+}
+.about {
+    
+    padding: 20px;
+    flex-direction: column;
+}
+.about-image {
+    margin-right: 0px;
+    margin-bottom: 20px;
+}
+.about-content p {
+    padding: 0px;
+    font-size: 16px;
+}
+
+.about-content .read-more {
+    font-size: 14px;
+    width: 150px;
+    
+}
+.header {
+    height:540px;
+}
+
+.carousel-item 
+    {
+        height: 600px;
+        
+    }
+    .carousel-caption{
+        margin: 0 15px 78px 15px;
+        left: 0 !important;
+        right: 0 !important;
+
+} 
+
+
+
+                

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Booking Form</title>
+        <link rel="icon" type="image/x-icon" href="foto/android-chrome-512x512.png">
+        <link rel="stylesheet" href="stylebook.css">
+        <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@400..800&display=swap" rel="stylesheet">
+        <script src="https://smtpjs.com/v3/smtp.js"></script>
+        <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    </head>
+    <body>
+        
+        <div class="bf-container">
+            <!-- Main form Body Start -->
+        <div class="bf-body">
+                
+            <!-- Form head -->
+            <div class="bf-head">
+                <h1>Formulaire de réservation</h1>
+                <p>Réservez votre rendez-vous maintenant!</p>
+
+
+            </div>
+            <!-- Form head -->
+
+            <!-- Form Body Box -->
+            <form class="bf-body-box" action="#">
+                <div class="bf-row">
+                    <div class="bf-col-6">
+                       
+                        
+                        <p>Votre Nom et Prénom</p>
+                        <input type="text" name="fname" id="fname" placeholder="Votre Nom et Prénom" required>
+                    </div>
+                    <div class="bf-col-6">
+                        <p>Adresse E-mail</p>
+                        <input type="email" name="email" id="email" placeholder="Adresse E-mail" required>
+                    </div>
+
+                </div>
+              
+
+                <div class="bf-row">
+                    <div class="bf-col-6">
+                        <p>Sélectionner date</p>
+                        <input type="datetime-local" name="date" id="date" required>
+                    
+                    </div>
+                    <div class="bf-col-6">
+                        <p>Sélectionner service</p> 
+                        <select name="s-select" id="service" required>
+                          <option>Service de Catégorie</option> 
+                          <option value="1">Coupe 25 CHF</option>
+                          <option value="2">Barbe 15 CHF</option>
+                          <option value="3">Enfant/Étudiant 20 CHF</option>
+                          <option value="4">Coupe+barbe 30 CHF</option>
+                        </select>
+                    </div>
+                    
+
+                </div>
+                
+
+                <div class="bf-row">
+                    <div class="bf-col-12">
+                        <p>Message</p>
+                        <textarea name="Messages" id="message" cols="10" rows="2">
+
+                        </textarea>
+                    </div>
+                    
+
+                </div>
+
+                <div class="bf-row">
+                    <div class="bf-col-3">
+                       <input type="submit" value="RÉSERVEZ" id="submit">  
+                    </div>
+
+                    
+                        <div class="bf-col-3" id="reset">
+                           <input type="reset" value="Claire formulaire" >  
+                        </div>
+                        
+    
+                </div>
+                
+
+
+            </form>
+            <!-- Form Body Box -->
+
+           <!-- This Is For Footer Start -->
+           <div class="bf-footer">
+               <p>Retourner au <a href="index.html">|AF-BARBER Web|</a></p>
+
+           </div>
+             
+           <!-- This Is For Footer Start -->
+
+         </div>
+          <!-- Main form Body end -->
+
+
+        </div>
+          <!-- Main form Body End -->
+
+
+        
+          <script src="book.js"></script>
+  
+        
+          
+    </body>
+
+</html>
